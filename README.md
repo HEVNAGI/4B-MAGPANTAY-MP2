@@ -3,6 +3,8 @@
 https://github.com/user-attachments/assets/368c4c6d-0141-4635-a312-5466b7a4b0f9
 
 
+https://github.com/HEVNAGI/4V-MAGPANTAY-MP2/blob/1a26282023b82b0247eeeb0a6121ced7c45a645d/EXERSICE_IMAGE_PROCESSING_TECHNIQUES.ipynb
+
 
 ![image alt](https://github.com/HEVNAGI/4V-MAGPANTAY-MP2/blob/main/iMAGES/1.png)
 
